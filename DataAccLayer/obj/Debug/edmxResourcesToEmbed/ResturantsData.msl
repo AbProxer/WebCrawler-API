@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ResturantsModelStoreContainer" CdmEntityContainer="ResturantsEntities">
+    <EntitySetMapping Name="Resturant_1">
+      <EntityTypeMapping TypeName="IsTypeOf(ResturantsModel.Resturant_1)">
+        <MappingFragment StoreEntitySet="Resturant_1">
+          <ScalarProperty Name="P_id" ColumnName="P_id" />
+          <ScalarProperty Name="P_name" ColumnName="P_name" />
+          <ScalarProperty Name="P_price" ColumnName="P_price" />
+          <ScalarProperty Name="P_ingredients" ColumnName="P_ingredients" />
+          <ScalarProperty Name="P_address" ColumnName="P_address" />
+          <ScalarProperty Name="P_contact" ColumnName="P_contact" />
+          <ScalarProperty Name="P_resName" ColumnName="P_resName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

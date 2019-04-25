@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="ResturantsModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="Resturant_1">
+          <Key>
+            <PropertyRef Name="P_id" />
+          </Key>
+          <Property Name="P_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="P_name" Type="varchar" MaxLength="150" />
+          <Property Name="P_price" Type="varchar" MaxLength="150" />
+          <Property Name="P_ingredients" Type="nvarchar(max)" />
+          <Property Name="P_address" Type="nvarchar(max)" />
+          <Property Name="P_contact" Type="varchar" MaxLength="150" />
+          <Property Name="P_resName" Type="varchar" MaxLength="150" />
+        </EntityType>
+        <EntityContainer Name="ResturantsModelStoreContainer">
+          <EntitySet Name="Resturant_1" EntityType="Self.Resturant_1" Schema="dbo" store:Type="Tables" />
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="ResturantsModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="Resturant_1">
+          <Key>
+            <PropertyRef Name="P_id" />
+          </Key>
+          <Property Name="P_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="P_name" Type="String" MaxLength="150" FixedLength="false" Unicode="false" />
+          <Property Name="P_price" Type="String" MaxLength="150" FixedLength="false" Unicode="false" />
+          <Property Name="P_ingredients" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="P_address" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="P_contact" Type="String" MaxLength="150" FixedLength="false" Unicode="false" />
+          <Property Name="P_resName" Type="String" MaxLength="150" FixedLength="false" Unicode="false" />
+        </EntityType>
+        <EntityContainer Name="ResturantsEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Resturant_1" EntityType="Self.Resturant_1" />
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="ResturantsModelStoreContainer" CdmEntityContainer="ResturantsEntities">
+          <EntitySetMapping Name="Resturant_1">
+            <EntityTypeMapping TypeName="ResturantsModel.Resturant_1">
+              <MappingFragment StoreEntitySet="Resturant_1">
+                <ScalarProperty Name="P_id" ColumnName="P_id" />
+                <ScalarProperty Name="P_name" ColumnName="P_name" />
+                <ScalarProperty Name="P_price" ColumnName="P_price" />
+                <ScalarProperty Name="P_ingredients" ColumnName="P_ingredients" />
+                <ScalarProperty Name="P_address" ColumnName="P_address" />
+                <ScalarProperty Name="P_contact" ColumnName="P_contact" />
+                <ScalarProperty Name="P_resName" ColumnName="P_resName" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="true" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

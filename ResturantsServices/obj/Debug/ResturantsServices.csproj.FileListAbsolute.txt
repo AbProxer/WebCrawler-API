@@ -1,0 +1,79 @@
+c:\users\ab_proxer\documents\visual studio 2013\Projects\ResturantsServices\ResturantsServices\obj\Debug\ResturantsServices.csprojResolveAssemblyReference.cache
+c:\users\ab_proxer\documents\visual studio 2013\Projects\ResturantsServices\ResturantsServices\bin\ResturantsServices.dll.config
+c:\users\ab_proxer\documents\visual studio 2013\Projects\ResturantsServices\ResturantsServices\bin\ResturantsServices.dll
+c:\users\ab_proxer\documents\visual studio 2013\Projects\ResturantsServices\ResturantsServices\bin\ResturantsServices.pdb
+c:\users\ab_proxer\documents\visual studio 2013\Projects\ResturantsServices\ResturantsServices\bin\Antlr3.Runtime.dll
+c:\users\ab_proxer\documents\visual studio 2013\Projects\ResturantsServices\ResturantsServices\bin\EntityFramework.dll
+c:\users\ab_proxer\documents\visual studio 2013\Projects\ResturantsServices\ResturantsServices\bin\EntityFramework.SqlServer.dll
+c:\users\ab_proxer\documents\visual studio 2013\Projects\ResturantsServices\ResturantsServices\bin\Microsoft.Web.Infrastructure.dll
+c:\users\ab_proxer\documents\visual studio 2013\Projects\ResturantsServices\ResturantsServices\bin\Newtonsoft.Json.dll
+c:\users\ab_proxer\documents\visual studio 2013\Projects\ResturantsServices\ResturantsServices\bin\ResDataAccess.dll
+c:\users\ab_proxer\documents\visual studio 2013\Projects\ResturantsServices\ResturantsServices\bin\System.Net.Http.Formatting.dll
+c:\users\ab_proxer\documents\visual studio 2013\Projects\ResturantsServices\ResturantsServices\bin\System.Web.Helpers.dll
+c:\users\ab_proxer\documents\visual studio 2013\Projects\ResturantsServices\ResturantsServices\bin\System.Web.Http.dll
+c:\users\ab_proxer\documents\visual studio 2013\Projects\ResturantsServices\ResturantsServices\bin\System.Web.Http.WebHost.dll
+c:\users\ab_proxer\documents\visual studio 2013\Projects\ResturantsServices\ResturantsServices\bin\System.Web.Mvc.dll
+c:\users\ab_proxer\documents\visual studio 2013\Projects\ResturantsServices\ResturantsServices\bin\System.Web.Optimization.dll
+c:\users\ab_proxer\documents\visual studio 2013\Projects\ResturantsServices\ResturantsServices\bin\System.Web.Razor.dll
+c:\users\ab_proxer\documents\visual studio 2013\Projects\ResturantsServices\ResturantsServices\bin\System.Web.WebPages.Deployment.dll
+c:\users\ab_proxer\documents\visual studio 2013\Projects\ResturantsServices\ResturantsServices\bin\System.Web.WebPages.dll
+c:\users\ab_proxer\documents\visual studio 2013\Projects\ResturantsServices\ResturantsServices\bin\System.Web.WebPages.Razor.dll
+c:\users\ab_proxer\documents\visual studio 2013\Projects\ResturantsServices\ResturantsServices\bin\WebGrease.dll
+c:\users\ab_proxer\documents\visual studio 2013\Projects\ResturantsServices\ResturantsServices\bin\ResDataAccess.pdb
+c:\users\ab_proxer\documents\visual studio 2013\Projects\ResturantsServices\ResturantsServices\bin\EntityFramework.xml
+c:\users\ab_proxer\documents\visual studio 2013\Projects\ResturantsServices\ResturantsServices\bin\EntityFramework.SqlServer.xml
+c:\users\ab_proxer\documents\visual studio 2013\Projects\ResturantsServices\ResturantsServices\bin\Newtonsoft.Json.xml
+c:\users\ab_proxer\documents\visual studio 2013\Projects\ResturantsServices\ResturantsServices\bin\System.Net.Http.Formatting.xml
+c:\users\ab_proxer\documents\visual studio 2013\Projects\ResturantsServices\ResturantsServices\bin\System.Web.Helpers.xml
+c:\users\ab_proxer\documents\visual studio 2013\Projects\ResturantsServices\ResturantsServices\bin\System.Web.Http.xml
+c:\users\ab_proxer\documents\visual studio 2013\Projects\ResturantsServices\ResturantsServices\bin\System.Web.Http.WebHost.xml
+c:\users\ab_proxer\documents\visual studio 2013\Projects\ResturantsServices\ResturantsServices\bin\System.Web.Mvc.xml
+c:\users\ab_proxer\documents\visual studio 2013\Projects\ResturantsServices\ResturantsServices\bin\System.Web.Optimization.xml
+c:\users\ab_proxer\documents\visual studio 2013\Projects\ResturantsServices\ResturantsServices\bin\System.Web.Razor.xml
+c:\users\ab_proxer\documents\visual studio 2013\Projects\ResturantsServices\ResturantsServices\bin\System.Web.WebPages.xml
+c:\users\ab_proxer\documents\visual studio 2013\Projects\ResturantsServices\ResturantsServices\bin\System.Web.WebPages.Deployment.xml
+c:\users\ab_proxer\documents\visual studio 2013\Projects\ResturantsServices\ResturantsServices\bin\System.Web.WebPages.Razor.xml
+c:\users\ab_proxer\documents\visual studio 2013\Projects\ResturantsServices\ResturantsServices\bin\Antlr3.Runtime.pdb
+c:\users\ab_proxer\documents\visual studio 2013\Projects\ResturantsServices\ResturantsServices\obj\Debug\ResturantsServices.dll
+c:\users\ab_proxer\documents\visual studio 2013\Projects\ResturantsServices\ResturantsServices\obj\Debug\ResturantsServices.pdb
+C:\Users\alyesha aziz\Documents\Visual Studio 2017\WebApplication\ResturantsServices\ResturantsServices\bin\ResturantsServices.dll.config
+C:\Users\alyesha aziz\Documents\Visual Studio 2017\WebApplication\ResturantsServices\ResturantsServices\bin\ResturantsServices.dll
+C:\Users\alyesha aziz\Documents\Visual Studio 2017\WebApplication\ResturantsServices\ResturantsServices\bin\ResturantsServices.pdb
+C:\Users\alyesha aziz\Documents\Visual Studio 2017\WebApplication\ResturantsServices\ResturantsServices\bin\Antlr3.Runtime.dll
+C:\Users\alyesha aziz\Documents\Visual Studio 2017\WebApplication\ResturantsServices\ResturantsServices\bin\EntityFramework.dll
+C:\Users\alyesha aziz\Documents\Visual Studio 2017\WebApplication\ResturantsServices\ResturantsServices\bin\EntityFramework.SqlServer.dll
+C:\Users\alyesha aziz\Documents\Visual Studio 2017\WebApplication\ResturantsServices\ResturantsServices\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\alyesha aziz\Documents\Visual Studio 2017\WebApplication\ResturantsServices\ResturantsServices\bin\Newtonsoft.Json.dll
+C:\Users\alyesha aziz\Documents\Visual Studio 2017\WebApplication\ResturantsServices\ResturantsServices\bin\System.Net.Http.Formatting.dll
+C:\Users\alyesha aziz\Documents\Visual Studio 2017\WebApplication\ResturantsServices\ResturantsServices\bin\System.Web.Helpers.dll
+C:\Users\alyesha aziz\Documents\Visual Studio 2017\WebApplication\ResturantsServices\ResturantsServices\bin\System.Web.Http.dll
+C:\Users\alyesha aziz\Documents\Visual Studio 2017\WebApplication\ResturantsServices\ResturantsServices\bin\System.Web.Http.WebHost.dll
+C:\Users\alyesha aziz\Documents\Visual Studio 2017\WebApplication\ResturantsServices\ResturantsServices\bin\System.Web.Mvc.dll
+C:\Users\alyesha aziz\Documents\Visual Studio 2017\WebApplication\ResturantsServices\ResturantsServices\bin\System.Web.Optimization.dll
+C:\Users\alyesha aziz\Documents\Visual Studio 2017\WebApplication\ResturantsServices\ResturantsServices\bin\System.Web.Razor.dll
+C:\Users\alyesha aziz\Documents\Visual Studio 2017\WebApplication\ResturantsServices\ResturantsServices\bin\System.Web.WebPages.Deployment.dll
+C:\Users\alyesha aziz\Documents\Visual Studio 2017\WebApplication\ResturantsServices\ResturantsServices\bin\System.Web.WebPages.dll
+C:\Users\alyesha aziz\Documents\Visual Studio 2017\WebApplication\ResturantsServices\ResturantsServices\bin\System.Web.WebPages.Razor.dll
+C:\Users\alyesha aziz\Documents\Visual Studio 2017\WebApplication\ResturantsServices\ResturantsServices\bin\WebGrease.dll
+C:\Users\alyesha aziz\Documents\Visual Studio 2017\WebApplication\ResturantsServices\ResturantsServices\bin\EntityFramework.xml
+C:\Users\alyesha aziz\Documents\Visual Studio 2017\WebApplication\ResturantsServices\ResturantsServices\bin\EntityFramework.SqlServer.xml
+C:\Users\alyesha aziz\Documents\Visual Studio 2017\WebApplication\ResturantsServices\ResturantsServices\bin\Newtonsoft.Json.xml
+C:\Users\alyesha aziz\Documents\Visual Studio 2017\WebApplication\ResturantsServices\ResturantsServices\bin\System.Net.Http.Formatting.xml
+C:\Users\alyesha aziz\Documents\Visual Studio 2017\WebApplication\ResturantsServices\ResturantsServices\bin\System.Web.Helpers.xml
+C:\Users\alyesha aziz\Documents\Visual Studio 2017\WebApplication\ResturantsServices\ResturantsServices\bin\System.Web.Http.xml
+C:\Users\alyesha aziz\Documents\Visual Studio 2017\WebApplication\ResturantsServices\ResturantsServices\bin\System.Web.Http.WebHost.xml
+C:\Users\alyesha aziz\Documents\Visual Studio 2017\WebApplication\ResturantsServices\ResturantsServices\bin\System.Web.Mvc.xml
+C:\Users\alyesha aziz\Documents\Visual Studio 2017\WebApplication\ResturantsServices\ResturantsServices\bin\System.Web.Optimization.xml
+C:\Users\alyesha aziz\Documents\Visual Studio 2017\WebApplication\ResturantsServices\ResturantsServices\bin\System.Web.Razor.xml
+C:\Users\alyesha aziz\Documents\Visual Studio 2017\WebApplication\ResturantsServices\ResturantsServices\bin\System.Web.WebPages.xml
+C:\Users\alyesha aziz\Documents\Visual Studio 2017\WebApplication\ResturantsServices\ResturantsServices\bin\System.Web.WebPages.Deployment.xml
+C:\Users\alyesha aziz\Documents\Visual Studio 2017\WebApplication\ResturantsServices\ResturantsServices\bin\System.Web.WebPages.Razor.xml
+C:\Users\alyesha aziz\Documents\Visual Studio 2017\WebApplication\ResturantsServices\ResturantsServices\bin\Antlr3.Runtime.pdb
+C:\Users\alyesha aziz\Documents\Visual Studio 2017\WebApplication\ResturantsServices\ResturantsServices\obj\Debug\ResturantsServices.csprojAssemblyReference.cache
+C:\Users\alyesha aziz\Documents\Visual Studio 2017\WebApplication\ResturantsServices\ResturantsServices\obj\Debug\ResturantsServices.csproj.CoreCompileInputs.cache
+C:\Users\alyesha aziz\Documents\Visual Studio 2017\WebApplication\ResturantsServices\ResturantsServices\obj\Debug\ResturantsServices.csproj.CopyComplete
+C:\Users\alyesha aziz\Documents\Visual Studio 2017\WebApplication\ResturantsServices\ResturantsServices\obj\Debug\ResturantsServices.dll
+C:\Users\alyesha aziz\Documents\Visual Studio 2017\WebApplication\ResturantsServices\ResturantsServices\obj\Debug\ResturantsServices.pdb
+C:\Users\alyesha aziz\Documents\Visual Studio 2017\WebApplication\ResturantsServices\ResturantsServices\bin\DataAccLayer.dll
+C:\Users\alyesha aziz\Documents\Visual Studio 2017\WebApplication\ResturantsServices\ResturantsServices\bin\DataAccLayer.pdb
+C:\Users\alyesha aziz\Documents\Visual Studio 2017\WebApplication\ResturantsServices\ResturantsServices\bin\DataAccLayer.dll.config

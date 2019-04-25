@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ResturantsModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Resturant_1">
+    <Key>
+      <PropertyRef Name="P_id" />
+    </Key>
+    <Property Name="P_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="P_name" Type="varchar" MaxLength="150" />
+    <Property Name="P_price" Type="varchar" MaxLength="150" />
+    <Property Name="P_ingredients" Type="nvarchar(max)" />
+    <Property Name="P_address" Type="nvarchar(max)" />
+    <Property Name="P_contact" Type="varchar" MaxLength="150" />
+    <Property Name="P_resName" Type="varchar" MaxLength="150" />
+  </EntityType>
+  <EntityContainer Name="ResturantsModelStoreContainer">
+    <EntitySet Name="Resturant_1" EntityType="Self.Resturant_1" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>
